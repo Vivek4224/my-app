@@ -31,6 +31,7 @@ const Footer = () => {
             href="https://www.facebook.com/vivekbarvaliya08"
             className="footer__social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="bx bxl-facebook"></i>
           </a>
@@ -39,6 +40,7 @@ const Footer = () => {
             href="https://www.instagram.com/vivekbarvaliya08/"
             className="footer__social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="bx bxl-instagram"></i>
           </a>
@@ -47,6 +49,7 @@ const Footer = () => {
             href="https://x.com/VKing2283"
             className="footer__social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="bx bxl-twitter"></i>
           </a>

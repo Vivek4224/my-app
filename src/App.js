@@ -8,7 +8,7 @@ import Qualification from "./components/qualification/Qualification";
 import ScrollUp from "./components/scrollUp/ScrollUp";
 import Services from "./components/services/Services";
 import Skills from "./components/Skills/Skills";
-import Testimonials from "./components/testimonials/Testimonials";
+// import Testimonials from "./components/testimonials/Testimonials";
 import Work from "./components/work/Work";
 
 function App() {
